@@ -23,7 +23,7 @@ body {
 	--color-close-bg: #6a6a6a;
 	--color-close: #fff;
 	--color-details-hover: #858585;
-	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-family: Poppins, "Trebuchet MS", Arial, sans-serif;
 	min-height: 100vh;
 	color: #57585c;
 	color: var(--color-text);
